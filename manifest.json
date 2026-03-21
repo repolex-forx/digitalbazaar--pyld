@@ -837,7 +837,38 @@
         "aggregate/ast/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz"
       ],
       "lsp": "aggregate/lsp/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz",
-      "repolex": "aggregate/repolex/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz"
+      "repolex": "aggregate/repolex/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz",
+      "dep": "dep/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "aiohttp",
+          "packageVersion": "4.0.0a1",
+          "githubOrg": "aio-libs",
+          "githubRepo": "aiohttp",
+          "githubCommit": "0ed22240769d11dc382ca1430538f8be180316df"
+        },
+        {
+          "packageName": "lxml",
+          "packageVersion": "6.0.2",
+          "githubOrg": "lxml",
+          "githubRepo": "lxml",
+          "githubCommit": "283d02ec8966c0e99f4666dc7bdd936479e97246"
+        },
+        {
+          "packageName": "cachetools",
+          "packageVersion": "7.0.5",
+          "githubOrg": "tkem",
+          "githubRepo": "cachetools",
+          "githubCommit": "5dce86fc5c9c565c6e9c912e2be5d6abb9586a1d"
+        },
+        {
+          "packageName": "frozendict",
+          "packageVersion": "2.4.7",
+          "githubOrg": "Marco-Sulla",
+          "githubRepo": "python-frozendict",
+          "githubCommit": "d4ee7590e2b507fd68124cd8a593778ce3c1158b"
+        }
+      ]
     },
     {
       "commit": "977e41b54ec36a95057038031f6028a9148017b4",
