@@ -709,7 +709,17 @@
         "aggregate/ast/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz"
       ],
       "lsp": "aggregate/lsp/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz",
-      "repolex": "aggregate/repolex/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz"
+      "repolex": "aggregate/repolex/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz",
+      "dep": "dep/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "aiohttp",
+          "packageVersion": "4.0.0a1",
+          "githubOrg": "aio-libs",
+          "githubRepo": "aiohttp",
+          "githubCommit": "0ed22240769d11dc382ca1430538f8be180316df"
+        }
+      ]
     },
     {
       "commit": "2ada0161fa56e52e18efc44eab8ad4ad2f5220f0",
