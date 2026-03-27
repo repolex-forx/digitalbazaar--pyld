@@ -15,8 +15,9 @@
     {
       "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/4a4457b912d313a553411cf87e436661d87554e9",
       "git:hexsha": "4a4457b912d313a553411cf87e436661d87554e9",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "0.4.10"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.4.10",
+      "repolex:parsedAt": "2026-03-27T01:46:13.212719+00:00"
     },
     {
       "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/19fc7e767ce29c4e59ee02f326507ef4dfa7ab68",
