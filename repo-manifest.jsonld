@@ -1,0 +1,262 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/digitalbazaar/pyld",
+  "@type": "gh:Repository",
+  "gh:name": "pyld",
+  "gh:owner": "digitalbazaar",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/977e41b54ec36a95057038031f6028a9148017b4",
+      "git:hexsha": "977e41b54ec36a95057038031f6028a9148017b4",
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.1.0",
+      "repolex:parsedAt": "2026-03-27T01:40:52.891805+00:00"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/4a4457b912d313a553411cf87e436661d87554e9",
+      "git:hexsha": "4a4457b912d313a553411cf87e436661d87554e9",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.4.10"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/19fc7e767ce29c4e59ee02f326507ef4dfa7ab68",
+      "git:hexsha": "19fc7e767ce29c4e59ee02f326507ef4dfa7ab68",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.4.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/6e9474704c0be6f5140376bdade45374e550b44f",
+      "git:hexsha": "6e9474704c0be6f5140376bdade45374e550b44f",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.4.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/569101bb0dfb91aa1ae63a362e766305b11b297e",
+      "git:hexsha": "569101bb0dfb91aa1ae63a362e766305b11b297e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.4.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/93a6d073f14845ffb11275cb5581825e3ede1dc9",
+      "git:hexsha": "93a6d073f14845ffb11275cb5581825e3ede1dc9",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.4.6"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/0f68bf53adfd24fb17e6d47a12572fd6575a1e6e",
+      "git:hexsha": "0f68bf53adfd24fb17e6d47a12572fd6575a1e6e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.4.7"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/72d950608c74f133f5fc9f7bae4d505637797721",
+      "git:hexsha": "72d950608c74f133f5fc9f7bae4d505637797721",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.4.8"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/329873c717c4ed1eb619fc6e00526eaf02c685a1",
+      "git:hexsha": "329873c717c4ed1eb619fc6e00526eaf02c685a1",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.4.9"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/779be9df8d5c8ae228e0a09fd86a5e0fb61d881b",
+      "git:hexsha": "779be9df8d5c8ae228e0a09fd86a5e0fb61d881b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.5.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/e14a4d3913b568ddcdac3bbc7246cab2e0620361",
+      "git:hexsha": "e14a4d3913b568ddcdac3bbc7246cab2e0620361",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.5.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/458d7cacd26ec732ea869545cf8641f958c0e255",
+      "git:hexsha": "458d7cacd26ec732ea869545cf8641f958c0e255",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.5.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/5c64a894184d50e8a97a908d81ed2eaa50b10de8",
+      "git:hexsha": "5c64a894184d50e8a97a908d81ed2eaa50b10de8",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.5.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/4486348d10254fa9d458221b22644aa35e19bf13",
+      "git:hexsha": "4486348d10254fa9d458221b22644aa35e19bf13",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.5.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/2f64b1926a3b8b62478ec2d20e74f2a5690ec1d0",
+      "git:hexsha": "2f64b1926a3b8b62478ec2d20e74f2a5690ec1d0",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.5.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/c4e72bf04704aeea5fb876b3724b2c4f135b02c1",
+      "git:hexsha": "c4e72bf04704aeea5fb876b3724b2c4f135b02c1",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.6.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/a1e3177f44f3948732785292a1fa9db69b08035e",
+      "git:hexsha": "a1e3177f44f3948732785292a1fa9db69b08035e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.6.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/c7b87b937622d1c05048cebffb4aec037fc37ed4",
+      "git:hexsha": "c7b87b937622d1c05048cebffb4aec037fc37ed4",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.6.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/67ff05846e0f9f8dd3c0c03765c410fbffa28476",
+      "git:hexsha": "67ff05846e0f9f8dd3c0c03765c410fbffa28476",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.6.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/7fe7a3eaac9d3a11ea14a379f91cdfc16b0775f7",
+      "git:hexsha": "7fe7a3eaac9d3a11ea14a379f91cdfc16b0775f7",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.6.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/c4f4935984d7545c3604a53a9c2ef49f127fccd8",
+      "git:hexsha": "c4f4935984d7545c3604a53a9c2ef49f127fccd8",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.6.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/ac831afdae71809a088c0f5e0491337265814291",
+      "git:hexsha": "ac831afdae71809a088c0f5e0491337265814291",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.6.6"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/45e72b70dabea3416b6e2156bbf3433cd58d67bc",
+      "git:hexsha": "45e72b70dabea3416b6e2156bbf3433cd58d67bc",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.6.7"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/b65533153b19121a903b8d2175f688dbfe56a1da",
+      "git:hexsha": "b65533153b19121a903b8d2175f688dbfe56a1da",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.6.8"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/49d03858f9b0f450db054c9a7fe102920c392f65",
+      "git:hexsha": "49d03858f9b0f450db054c9a7fe102920c392f65",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.7.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/8b7fb2003374f8fbc0e5a0351b8afecef0332b29",
+      "git:hexsha": "8b7fb2003374f8fbc0e5a0351b8afecef0332b29",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.7.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/652473f828e9a396d4c1db9addbd294fb7db1797",
+      "git:hexsha": "652473f828e9a396d4c1db9addbd294fb7db1797",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.7.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/012c10567e9097ca23449bf7037c27ba0ada3dae",
+      "git:hexsha": "012c10567e9097ca23449bf7037c27ba0ada3dae",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.7.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/9c1060a92949594ed5f1fb4b047749b8f175ad8e",
+      "git:hexsha": "9c1060a92949594ed5f1fb4b047749b8f175ad8e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.8.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/05e3b6573fad1233b65f8e9522783713168762a7",
+      "git:hexsha": "05e3b6573fad1233b65f8e9522783713168762a7",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.8.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/4d0f199953fb6ce8aaa9e8efae109fec9d14644e",
+      "git:hexsha": "4d0f199953fb6ce8aaa9e8efae109fec9d14644e",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "0.8.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/230e9201e91469aef2ae2c00fb8b851da9840b1a",
+      "git:hexsha": "230e9201e91469aef2ae2c00fb8b851da9840b1a",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "1.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/1b5368d29774e7743a2d143facd1f20fc39eaee3",
+      "git:hexsha": "1b5368d29774e7743a2d143facd1f20fc39eaee3",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "1.0.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/907a988d24a991df6ee7d1bc29c88911aeab8413",
+      "git:hexsha": "907a988d24a991df6ee7d1bc29c88911aeab8413",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "1.0.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/5d3944dea87bc76c777796b889d0a0742eb960c0",
+      "git:hexsha": "5d3944dea87bc76c777796b889d0a0742eb960c0",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "1.0.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/ee0b6463e150a4d84fff29ffba56976dfecf379d",
+      "git:hexsha": "ee0b6463e150a4d84fff29ffba56976dfecf379d",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "1.0.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/df0ef242b30cb52b562e0a0499a3da748f14715b",
+      "git:hexsha": "df0ef242b30cb52b562e0a0499a3da748f14715b",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "1.0.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/37071c898a2b10bc695b315eeb3fa5b3b5b65412",
+      "git:hexsha": "37071c898a2b10bc695b315eeb3fa5b3b5b65412",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "2.0.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/a7e5e8cd0ee09df3bef3afc8e3fd2f281406e7da",
+      "git:hexsha": "a7e5e8cd0ee09df3bef3afc8e3fd2f281406e7da",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "2.0.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/68f94fd203d4b8f894cdb70b3521b69a3bfc8c36",
+      "git:hexsha": "68f94fd203d4b8f894cdb70b3521b69a3bfc8c36",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "2.0.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/e9b01da9898b820f04fcd265f54ddf699acaec65",
+      "git:hexsha": "e9b01da9898b820f04fcd265f54ddf699acaec65",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "2.0.3"
+    },
+    {
+      "@id": "https://repolex.ai/r/digitalbazaar/pyld/commit/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0",
+      "git:hexsha": "2ada0161fa56e52e18efc44eab8ad4ad2f5220f0",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v2.0.4"
+    }
+  ]
+}
