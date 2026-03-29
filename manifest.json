@@ -591,7 +591,21 @@
         "aggregate/ast/4d0f199953fb6ce8aaa9e8efae109fec9d14644e.nq.gz"
       ],
       "lsp": "aggregate/lsp/4d0f199953fb6ce8aaa9e8efae109fec9d14644e.nq.gz",
-      "repolex": "aggregate/repolex/4d0f199953fb6ce8aaa9e8efae109fec9d14644e.nq.gz"
+      "repolex": "aggregate/repolex/4d0f199953fb6ce8aaa9e8efae109fec9d14644e.nq.gz",
+      "dep": "dep/4d0f199953fb6ce8aaa9e8efae109fec9d14644e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.33.0",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "bc04dfd6dad4cb02cd92f5daa81eb562d280a761",
+          "githubTag": "v2.33.0",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:requirements.txt"
+        }
+      ]
     },
     {
       "commit": "df0ef242b30cb52b562e0a0499a3da748f14715b",
