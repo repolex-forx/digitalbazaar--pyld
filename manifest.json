@@ -870,32 +870,59 @@
       "dep": "dep/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz",
       "dependencies": [
         {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.33.0",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "bc04dfd6dad4cb02cd92f5daa81eb562d280a761",
+          "githubTag": "v2.33.0",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:requirements.txt"
+        },
+        {
           "packageName": "aiohttp",
-          "packageVersion": "4.0.0a1",
+          "ecosystem": "PYPI",
+          "version": "3.13.4",
           "githubOrg": "aio-libs",
           "githubRepo": "aiohttp",
-          "githubCommit": "0ed22240769d11dc382ca1430538f8be180316df"
+          "githubCommit": "9f7c7ab6f2924824e4a61a3b5c5c36475f4e25c6",
+          "githubTag": "v3.13.4",
+          "githubUrl": "https://github.com/aio-libs/aiohttp",
+          "source": "build_file:requirements.txt"
         },
         {
           "packageName": "lxml",
-          "packageVersion": "6.0.2",
+          "ecosystem": "PYPI",
+          "version": "6.0.2",
           "githubOrg": "lxml",
           "githubRepo": "lxml",
-          "githubCommit": "283d02ec8966c0e99f4666dc7bdd936479e97246"
+          "githubCommit": "283d02ec8966c0e99f4666dc7bdd936479e97246",
+          "githubTag": "lxml-6.0.2",
+          "githubUrl": "https://github.com/lxml/lxml",
+          "source": "build_file:requirements.txt"
         },
         {
           "packageName": "cachetools",
-          "packageVersion": "7.0.5",
+          "ecosystem": "PYPI",
+          "version": "7.0.5",
           "githubOrg": "tkem",
           "githubRepo": "cachetools",
-          "githubCommit": "5dce86fc5c9c565c6e9c912e2be5d6abb9586a1d"
+          "githubCommit": "5dce86fc5c9c565c6e9c912e2be5d6abb9586a1d",
+          "githubTag": "v7.0.5",
+          "githubUrl": "https://github.com/tkem/cachetools",
+          "source": "build_file:requirements.txt"
         },
         {
           "packageName": "frozendict",
-          "packageVersion": "2.4.7",
+          "ecosystem": "PYPI",
+          "version": "2.4.7",
           "githubOrg": "Marco-Sulla",
           "githubRepo": "python-frozendict",
-          "githubCommit": "d4ee7590e2b507fd68124cd8a593778ce3c1158b"
+          "githubCommit": "d4ee7590e2b507fd68124cd8a593778ce3c1158b",
+          "githubTag": "v2.4.7",
+          "githubUrl": "https://github.com/Marco-Sulla/python-frozendict",
+          "source": "build_file:requirements.txt"
         }
       ]
     },

@@ -42,10 +42,66 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 46971
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz",
+      "repolex:graphFileSize": 1108
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz",
+      "repolex:graphFileSize": 7770938
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz",
+      "repolex:graphFileSize": 65
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "dep",
+      "repolex:graphFilePath": "dep/2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz",
+      "repolex:graphFileSize": 847
     }
   ],
   "repolex:parseStatus": "parsed",
   "repolex:parsedAt": "2026-03-29T08:49:41.466415+00:00",
   "repolex:parserVersion": "0.1.0",
-  "git:tagName": "v2.0.4"
+  "git:tagName": "v2.0.4",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/psf/requests",
+      "repolex:packageName": "requests",
+      "git:hexsha": "bc04dfd6dad4cb02cd92f5daa81eb562d280a761",
+      "git:tagName": "v2.33.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/aio-libs/aiohttp",
+      "repolex:packageName": "aiohttp",
+      "git:hexsha": "9f7c7ab6f2924824e4a61a3b5c5c36475f4e25c6",
+      "git:tagName": "v3.13.4"
+    },
+    {
+      "@id": "https://repolex.ai/r/lxml/lxml",
+      "repolex:packageName": "lxml",
+      "git:hexsha": "283d02ec8966c0e99f4666dc7bdd936479e97246",
+      "git:tagName": "lxml-6.0.2"
+    },
+    {
+      "@id": "https://repolex.ai/r/tkem/cachetools",
+      "repolex:packageName": "cachetools",
+      "git:hexsha": "5dce86fc5c9c565c6e9c912e2be5d6abb9586a1d",
+      "git:tagName": "v7.0.5"
+    },
+    {
+      "@id": "https://repolex.ai/r/Marco-Sulla/python-frozendict",
+      "repolex:packageName": "frozendict",
+      "git:hexsha": "d4ee7590e2b507fd68124cd8a593778ce3c1158b",
+      "git:tagName": "v2.4.7"
+    }
+  ]
 }
