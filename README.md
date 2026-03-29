@@ -188,6 +188,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── commit.nq.gz
 ├── dep
 │   ├── 2ada0161fa56e52e18efc44eab8ad4ad2f5220f0.nq.gz
+│   ├── 4d0f199953fb6ce8aaa9e8efae109fec9d14644e.nq.gz
 │   └── df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz
 ├── filetree
 │   ├── 012c10567e9097ca23449bf7037c27ba0ada3dae.nq.gz
@@ -206,7 +207,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-14 directories, 156 files
+14 directories, 157 files
 ```
 
 | Directory | What it contains |
