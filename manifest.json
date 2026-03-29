@@ -727,11 +727,26 @@
       "dep": "dep/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz",
       "dependencies": [
         {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.33.0",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "bc04dfd6dad4cb02cd92f5daa81eb562d280a761",
+          "githubTag": "v2.33.0",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:requirements.txt"
+        },
+        {
           "packageName": "aiohttp",
-          "packageVersion": "4.0.0a1",
+          "ecosystem": "PYPI",
+          "version": "3.13.4",
           "githubOrg": "aio-libs",
           "githubRepo": "aiohttp",
-          "githubCommit": "0ed22240769d11dc382ca1430538f8be180316df"
+          "githubCommit": "9f7c7ab6f2924824e4a61a3b5c5c36475f4e25c6",
+          "githubTag": "v3.13.4",
+          "githubUrl": "https://github.com/aio-libs/aiohttp",
+          "source": "build_file:requirements.txt"
         }
       ]
     },

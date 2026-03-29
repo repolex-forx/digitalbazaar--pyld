@@ -42,10 +42,48 @@
       "repolex:graphType": "pr",
       "repolex:graphFilePath": "pr/pr.nq.gz",
       "repolex:graphFileSize": 46971
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz",
+      "repolex:graphFileSize": 810
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "ast",
+      "repolex:graphFilePath": "aggregate/ast/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz",
+      "repolex:graphFileSize": 5488704
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz",
+      "repolex:graphFileSize": 65
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "dep",
+      "repolex:graphFilePath": "dep/df0ef242b30cb52b562e0a0499a3da748f14715b.nq.gz",
+      "repolex:graphFileSize": 508
     }
   ],
   "repolex:parseStatus": "parsed",
   "repolex:parsedAt": "2026-03-29T08:44:55.947539+00:00",
   "repolex:parserVersion": "0.1.0",
-  "git:tagName": "1.0.5"
+  "git:tagName": "1.0.5",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/psf/requests",
+      "repolex:packageName": "requests",
+      "git:hexsha": "bc04dfd6dad4cb02cd92f5daa81eb562d280a761",
+      "git:tagName": "v2.33.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/aio-libs/aiohttp",
+      "repolex:packageName": "aiohttp",
+      "git:hexsha": "9f7c7ab6f2924824e4a61a3b5c5c36475f4e25c6",
+      "git:tagName": "v3.13.4"
+    }
+  ]
 }
